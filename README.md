@@ -8,7 +8,14 @@ Use this DIY Bloomberg Terminal to have a text message be sent directly to your 
 - If you wish to automate this code, such that it is run everyday at a certain time(probably in the morning right after you wake up), you would need to use PythonAnywhere, or some other form of online IDE. 
 
 # Learning Concepts
+- HTTP Requests, such as requests.get(url=api_endpoint), in order to retrieve from an external database
+- parameters that are often required to be inside the requests.get(params=parameters) in order to retrieve certain data
+- How to convert retrieved information into a JSON format
+- list comprehension
+- How to use different API's to retrieve different types of information
 
+# Conclusion
+So far, this has been my favorite project, and probably most useful. I am excited to see what I can do with API's!
 
 
 
